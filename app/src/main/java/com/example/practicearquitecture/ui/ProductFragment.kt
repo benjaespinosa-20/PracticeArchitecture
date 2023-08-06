@@ -46,7 +46,6 @@ class ProductFragment : Fragment(R.layout.fragment_product), ProductAdapter.OnPr
                 }
             }
         }
-
     }
 
     override fun onProductClick(products: Products) {
