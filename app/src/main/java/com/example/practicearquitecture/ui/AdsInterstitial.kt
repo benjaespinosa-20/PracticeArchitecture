@@ -10,7 +10,7 @@ import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.interstitial.InterstitialAd
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
 
-open class AdsInterstitial {
+class AdsInterstitial {
     private var interstitialAd: InterstitialAd? = null
 
     //Ad INTERSTITIAL
